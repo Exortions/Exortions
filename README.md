@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Better NPN Init](https://www.npmjs.com/package/better-npm-init)**
+- 🔭 I’m currently working on **[Better NPM Init](https://www.npmjs.com/package/better-npm-init)**
 
 - 🌱 I’m currently learning **Node.js**
 
