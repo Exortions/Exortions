@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="img/banner.svg" height="175px"/></a>
 
 <h1 align="center">Hey <img src="img/wave.gif" width="30px">, I'm Exortions</h1>
-<h3 align="center">a passionate developer looking to make the open source community a better place</h3>
+<h3 align="center">a passionate developer looking to make the open-source community a better place</h3>
 
 
 ## 🙋‍♂️ About Me
